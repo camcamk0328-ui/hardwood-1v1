@@ -1,0 +1,1 @@
+{ "name": "hardwood-friends-server", "version": "1.0.0", "private": true, "main": "srv.js", "scripts": { "start": "node srv.js" }, "engines": { "node": ">=18" }, "dependencies": { "express": "^4.19.2", "peer": "^1.0.2" } }
